@@ -15,6 +15,6 @@ app.get('/', (req: Request, res: Response) => {
 })
 
 app.listen(PORT, () => {
-    console.log('Hola desde el servidor Express')
+    console.log('Hola desde el servidor Express, Actualizado')
 })
 
